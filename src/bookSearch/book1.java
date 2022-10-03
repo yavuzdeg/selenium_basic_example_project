@@ -11,7 +11,13 @@ import java.util.List;
 
 
 public class book1 {
-   
+
+    /*
+
+    Open the kitapyurdu website and confirm and the title of the page contains "kitapyurdu".
+    Then, search the word "software requirements" and verify that the result stated below the page is same with the book list.
+
+     */
 
     public static void main(String[] args) throws InterruptedException {
 
