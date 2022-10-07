@@ -10,11 +10,11 @@ import org.openqa.selenium.interactions.Actions;
 import java.util.List;
 
 
-public class book1 {
+public class BookSearch1 {
 
     /*
 
-    Open the kitapyurdu website and confirm and the title of the page contains "kitapyurdu".
+    Open the kitapyurdu website, change website language to English and confirm and the title of the page contains "kitapyurdu".
     Then, search the word "software requirements" and verify that the result stated below the page is same with the book list.
 
      */
